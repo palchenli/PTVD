@@ -1,4 +1,4 @@
-# PTVD
+# PTVD (Licensed under CC BY-NC-SA 4.0)
 
 PTVD is a multi-modal dataset based on TV drama clips. For details, please refer to the introduction page: [PTVD](https://ptvd.github.io/) .
 
